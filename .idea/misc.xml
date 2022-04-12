@@ -4,18 +4,28 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable-v24/ic_baseline_map.xml" value="0.2345" />
+        <entry key="app/src/main/res/drawable/account_buttons.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/background_bg.xml" value="0.27" />
+        <entry key="app/src/main/res/drawable/button_background.xml" value="0.27" />
         <entry key="app/src/main/res/drawable/ic_baseline_account.xml" value="0.223" />
+        <entry key="app/src/main/res/layout/account.xml" value="0.26510416666666664" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_account.xml" value="0.26510416666666664" />
         <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.35625" />
         <entry key="app/src/main/res/layout/fragment_first.xml" value="0.35625" />
         <entry key="app/src/main/res/layout/fragment_fourth.xml" value="0.259375" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_map.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_offers.xml" value="0.290625" />
         <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.35625" />
         <entry key="app/src/main/res/layout/fragment_second.xml" value="0.35625" />
         <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.35625" />
         <entry key="app/src/main/res/layout/fragment_third.xml" value="0.35625" />
         <entry key="app/src/main/res/layout/fragment_third3.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/lunchmenu.xml" value="0.12083333333333333" />
+        <entry key="app/src/main/res/layout/user_login.xml" value="0.26510416666666664" />
         <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.35625" />
+        <entry key="app/src/main/res/menu/food_menu.xml" value="0.26510416666666664" />
         <entry key="app/src/main/res/menu/menu.xml" value="0.35625" />
       </map>
     </option>
